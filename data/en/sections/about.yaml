@@ -8,11 +8,10 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Senior Machine Learning Engineer
+designation: Founding Engineer
 # your company information
 company:
   name: Aegis Technology Inc.
-  url: Null
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
