@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Aegis Technology
+    # url: "https://www.example.com"
+    location: Phoenix, AZ
+    # company overview
+    # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Senior Machine Learning Engineer
+    start: Mar 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and build fire hazard machine learning PoC for large scale semiconductor fab plant.
+
+- company:
+    name: Careplus.ai
+    url: "https://careplus.ai/"
+    location: Taipei, Taiwan
+    # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Chief Technology Officer
+    start: Feb 2021
+    end: Mar 2022
+    responsibilities:
+    - Designed and developed a Machine Learning enabled home-caring system which introduced intelligent ambient awareness powered by our modularized inference components, delivering features that prevents 90% or more of the accidents and continuously adapting to current environment and new behaviors..
+    - Developed custom MLOps framework for automation pipeline to perform self-annotation, active-learning, performance evaluation and model deployment to cut down 90% of the human resources and maintain 99% of system availability and reliability.
+
+- company:
+    name: Prof. Min Sun, Tsing Hua University
+    url: "https://aliensunmin.github.io/lab/info.html"
+    location: Hsinchu, Taiwan
+    overview: Vision Science Lab.
+  positions:
+  - designation: Research Assistant
+    start: July 2020
+    end: Feb 2021
+    responsibilities:
+    - Researched and developed modularized Machin Learning inference components including object detection, object tracking, pose-estimation, action-recognition and person re-identification, which can speed up task-specific domain adaptation up to 80% and cut down 50% of development time.
+
+- company:
+    name: Industrial Technology Research Institute
+    url: "https://www.itri.org.tw/english/index.aspx"
+    location: Hsinchu, Taiwan
+    overview: ITRI is a world-leading applied technology research institute with visions to drive industrial development, create economic value, and enhance social well-being through technology R&D.
+  positions:
+  - designation: Machine Learning Engineer
+    start: July 2020
+    end: Feb 2021
+    responsibilities:
+    - Customized SOTA deep learning backbone networks including Mobilenet, Darknet-53 and CSPNet, combined with SSD and Yolov3/v4 detection network and object tracking algorithms, deployed an object detection system for self-driving vehicles with above 90% intra-class averaged mAP and f1 score.
