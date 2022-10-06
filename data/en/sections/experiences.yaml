@@ -17,13 +17,14 @@ experiences:
     # company overview
     # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Machine Learning Engineer
+  - designation: Founding Engineer
     start: Mar 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and build fire hazard machine learning PoC for large scale semiconductor fab plant.
+    - Design and build fire hazard detection system PoC for semiconductor fab plant.
+    - Deploy prototype systems which utilize complex infrastructure that contains multiple computing nodes On-premise and Off-Premise.
 
 - company:
     name: Careplus.ai
@@ -61,3 +62,25 @@ experiences:
     end: Feb 2021
     responsibilities:
     - Customized SOTA deep learning backbone networks including Mobilenet, Darknet-53 and CSPNet, combined with SSD and Yolov3/v4 detection network and object tracking algorithms, deployed an object detection system for self-driving vehicles with above 90% intra-class averaged mAP and f1 score.
+
+- company:
+    name: Prof. Sanjib Sur, University of South Carolina
+    url: "https://cse.sc.edu/~sur/"
+    location: Columbia, SC
+  positions:
+  - designation: Research Assistant
+    start: Sep 2018
+    end: May 2019
+    responsibilities:
+    - Researched and designed a DNN steering angle prediction model built with Tensorflow framework, we introduced novel convolutional blocks to learn and extract additional high dimensional features with 20% faster model forward time and 10% higher mAP over benchmark dataset.
+
+- company:
+    name: California Partners for Advanced Transportation Technology
+    url: "https://path.berkeley.edu/"
+    location: Richmond, CA
+  positions:
+  - designation: Research Intern
+    start: Jun 2018
+    end: Sep 2018
+    responsibilities:
+    - Developed tools to help construct 3D pointcloud vector map for autonomous vehicle’s SLAM algorithm and route planning while utilizing PPP GPS to correct the margin of error to achieve 90% accuracy.

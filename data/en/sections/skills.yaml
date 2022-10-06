@@ -11,14 +11,14 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Python Developnebt
+- name: Python Development
   logo: /images/sections/skills/python.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://www.python.org/"
 
-- name: Pytorch Development
+- name: Pytorch
   logo: /images/sections/skills/pytorch.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Expertise on utilizing pytorch deep learning framework to design and create machine learning systems."
   url: "https://pytorch.org/"
 
 - name: Git
