@@ -23,8 +23,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Research and design Machine Learning solutions from scratch for fire hazard detection in large scale semiconductor fabrication plants.
-    - Quickly deploy Pytorch PoC system in short timeframe in response to changing requirements, and verify the validity of the solutions.
+    - Designed PoC Machine Learning solution which combines optical flow feature characterization and color-based image classification DNN model for fire hazard detection in large scale semiconductor fabrication plant.
+    - Deployed on complex infrastructure with High Availability virtual machines migration system to acheive the ability to inference 200+ real-time video streams with 0 downtime.
 
 - company:
     name: Careplus.ai

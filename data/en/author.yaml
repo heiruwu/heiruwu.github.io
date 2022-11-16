@@ -7,7 +7,7 @@ image: "images/author/heiru.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "heiru52310.usc@gmail.com"
-  phone: "+1 (623) 552-9380"
+  # phone: "+1 (623) 552-9380"
   github: gt212345
   linkedin: heiruwu
 
