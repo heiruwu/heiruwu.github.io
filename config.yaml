@@ -1,4 +1,4 @@
-baseURL: https://gt212345.github.io/
+baseURL: https://heiruwu.github.io/
 
 languageCode: en-us
 title: "Portfolio"
@@ -48,7 +48,7 @@ params:
     # favicon: /images/site/.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/gt212345/gt212345.github.io
+  gitRepo: https://github.com/heiruwu/heiruwu.github.io
   # Default branch of your Git repo
   gitBranch: main
 
